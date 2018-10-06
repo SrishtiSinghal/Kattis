@@ -1,2 +1,0 @@
-# Kattis
-Kattis Problem Solutions 
